@@ -1,5 +1,7 @@
 # Enviroment note
-
+記得要開hyper，可以用命令裂開，bedciedit甚麼的，沒有的話要記得安裝這個功能  
+甚麼完全關閉hyper-v 
+docker的磁碟很大，有壓縮的方法
 
 
 ## Getting started
